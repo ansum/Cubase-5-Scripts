@@ -784,7 +784,136 @@
 [p2, 124, 82, 0]	Card:125	
 [p2, 125, 82, 0]	Card:126	
 [p2, 126, 82, 0]	Card:127	
-[p2, 127, 82, 0]	Card:128		
+[p2, 127, 82, 0]	Card:128
+[g1]		Expansion A1
+[p2, 0, 84, 0]	Prologue 	
+[p2, 1, 84, 0]	EasternTempl 	
+[p2, 2, 84, 0]	Replicants 	
+[p2, 3, 84, 0]	Converge 	
+[p2, 4, 84, 0]	JX3P Polaris 	
+[p2, 5, 84, 0]	Big Pad Swp 	
+[p2, 6, 84, 0]	Big LFOSweep 	
+[p2, 7, 84, 0]	Animotion 	
+[p2, 8, 84, 0]	Mega 5ths 	
+[p2, 9, 84, 0]	CS-Sixty BPF 	
+[p2, 10, 84, 0]	Waspy Synth 	
+[p2, 11, 84, 0]	Polychrome 	
+[p2, 12, 84, 0]	Euro Sweep 	
+[p2, 13, 84, 0]	OBig Poly 	
+[p2, 14, 84, 0]	OB Synthy 	
+[p2, 15, 84, 0]	80s OBxa 	
+[p2, 16, 84, 0]	Thick Matrix 	
+[p2, 17, 84, 0]	Poly X-pandr 	
+[p2, 18, 84, 0]	Synth-X Poly 	
+[p2, 19, 84, 0]	Prophetic 	
+[p2, 20, 84, 0]	Oct MG Saw 	
+[p2, 21, 84, 0]	Juno-6 Power 	
+[p2, 22, 84, 0]	Hyperphases 	
+[p2, 23, 84, 0]	Synth - X Phaz 	
+[p2, 24, 84, 0]	MIDI Brs Pad 	
+[p2, 25, 84, 0]	Poly Palette 	
+[p2, 26, 84, 0]	Spit Brass 	
+[p2, 27, 84, 0]	Pro-10 Brass 	
+[p2, 28, 84, 0]	OB Stab Brs 	
+[p2, 29, 84, 0]	Pro-5 Brass 	
+[p2, 30, 84, 0]	MKS-7 Brass 	
+[p2, 31, 84, 0]	Quack Brass 	
+[p2, 32, 84, 0]	MemoryMG Brs 	
+[p2, 33, 84, 0]	FM Brass 	
+[p2, 34, 84, 0]	Ghost Blow 	
+[p2, 35, 84, 0]	Metal Drone 	
+[p2, 36, 84, 0]	Rotary Strng 	
+[p2, 37, 84, 0]	Random Pad 	
+[p2, 38, 84, 0]	S/H Texture 	
+[p2, 39, 84, 0]	Warm Shimmer 	
+[p2, 40, 84, 0]	Nervous Pan 	
+[p2, 41, 84, 0]	J X - 3P Planet 	
+[p2, 42, 84, 0]	JX Melon Vox 	
+[p2, 43, 84, 0]	Horror Pad 	
+[p2, 44, 84, 0]	Shining Wave 	
+[p2, 45, 84, 0]	The Big Wave 	
+[p2, 46, 84, 0]	Mantrawave 	
+[p2, 47, 84, 0]	WavetablePan 	
+[p2, 48, 84, 0]	2.3 GlassSEQ 	
+[p2, 49, 84, 0]	VS Organbell 	
+[p2, 50, 84, 0]	DigitalChoir 	
+[p2, 51, 84, 0]	Additive 	
+[p2, 52, 84, 0]	Tower Silvis 	
+[p2, 53, 84, 0]	2.2 Rezidue 	
+[p2, 54, 84, 0]	Polysync 	
+[p2, 55, 84, 0]	Wavesync 	
+[p2, 56, 84, 0]	Rock Sync 	
+[p2, 57, 84, 0]	Kalimbasynth 	
+[p2, 58, 84, 0]	Stacc Heaven 	
+[p2, 59, 84, 0]	D50 Bellpad1 	
+[p2, 60, 84, 0]	D50 Bellpad2 	
+[p2, 61, 84, 0]	D50 Bellpad3 	
+[p2, 62, 84, 0]	Snow Lake 	
+[p2, 63, 84, 0]	Time flies 	
+[p2, 64, 84, 0]	Fanta-Retro 	
+[p2, 65, 84, 0]	SimpleEp+Pad 	
+[p2, 66, 84, 0]	Juno-1 Bells 	
+[p2, 67, 84, 0]	Random Chime 	
+[p2, 68, 84, 0]	Asia Wave 	
+[p2, 69, 84, 0]	GoodniteBell 	
+[p2, 70, 84, 0]	2600 RTlbell 	
+[p2, 71, 84, 0]	Twinkle 	
+[p2, 72, 84, 0]	Analog Chime 	
+[p2, 73, 84, 0]	Space Echo 	
+[p2, 74, 84, 0]	Ethno Stack 	
+[p2, 75, 84, 0]	SH-1000 MIDI 	
+[p2, 76, 84, 0]	ElectraPiano 	
+[p2, 77, 84, 0]	Rhodes Pad 	
+[p2, 78, 84, 0]	Sine Piano 	
+[p2, 79, 84, 0]	VCO Wurly 	
+[p2, 80, 84, 0]	Clavipad 	
+[p2, 81, 84, 0]	P10 GuitClav 	
+[p2, 82, 84, 0]	Gum Clav 	
+[p2, 83, 84, 0]	JuniBiteClav 	
+[p2, 84, 84, 0]	Phazyn Clav 	
+[p2, 85, 84, 0]	JP-8 Clav 	
+[p2, 86, 84, 0]	Alpha Clav	
+[p2, 87, 84, 0]	Hyper Clav	
+[p2, 88, 84, 0]	Perky Pad	
+[p2, 89, 84, 0]	Perkolator	
+[p2, 90, 84, 0]	MondoDiGiTaL	
+[p2, 91, 84, 0]	Poly Flange	
+[p2, 92, 84, 0]	and thenMIDI	
+[p2, 93, 84, 0]	JP4Sharp Pad	
+[p2, 94, 84, 0]	Splatty	
+[p2, 95, 84, 0]	MKS80 Sprang	
+[p2, 96, 84, 0]	JP8 Strings1	
+[p2, 97, 84, 0]	JP8 Strings2	
+[p2, 98, 84, 0]	JP+OB Strngs	
+[p2, 99, 84, 0]	Wavestrings	
+[p2, 100, 84, 0]	PWM Srings	
+[p2, 101, 84, 0]	MemoryMG STR	
+[p2, 102, 84, 0]	OB Thick Pad	
+[p2, 103, 84, 0]	OB Soft Pad	
+[p2, 104, 84, 0]	OctavaStrngs	
+[p2, 105, 84, 0]	CS Saw Pad	
+[p2, 106, 84, 0]	CS Strings	
+[p2, 107, 84, 0]	Solina	
+[p2, 108, 84, 0]	Rhapsody STR	
+[p2, 109, 84, 0]	Big String	
+[p2, 110, 84, 0]	Juno 106 Pad	
+[p2, 111, 84, 0]	Majesty Pad	
+[p2, 112, 84, 0]	Peaceful Pad	
+[p2, 113, 84, 0]	Flange Strng	
+[p2, 114, 84, 0]	JP SquarePad	
+[p2, 115, 84, 0]	HollowBreath	
+[p2, 116, 84, 0]	Hollow JX	
+[p2, 117, 84, 0]	DarkEnsemble	
+[p2, 118, 84, 0]	LonesomeHill	
+[p2, 119, 84, 0]	VP-330 Choir	
+[p2, 120, 84, 0]	VP-330 Tutti	
+[p2, 121, 84, 0]	VP-330 Sweep	
+[p2, 122, 84, 0]	RS-202 Brass	
+[p2, 123, 84, 0]	Orchestrator	
+[p2, 124, 84, 0]	OBJX Vox Pad	
+[p2, 125, 84, 0]	Voices JX-8P	
+[p2, 126, 84, 0]	D50 Heavenly	
+[p2, 127, 84, 0]	Mini Lead 1			
 [mode]	Performances
 [g1]		User
 [p2, 0, 80, 0]	Tekno Loop 1
