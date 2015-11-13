@@ -913,7 +913,135 @@
 [p2, 124, 84, 0]	OBJX Vox Pad	
 [p2, 125, 84, 0]	Voices JX-8P	
 [p2, 126, 84, 0]	D50 Heavenly	
-[p2, 127, 84, 0]	Mini Lead 1			
+[p2, 127, 84, 0]	Mini Lead 1	
+[g1]		Expansion A2
+[p2, 0, 84,1]	Midi Lead 2	
+[p2, 1, 84,1]	Pulse Lead 	
+[p2, 2, 84,1]	Shmoog 	
+[p2, 3, 84,1]	ClassicLead 	
+[p2, 4, 84,1]	MG Swell 	
+[p2, 5, 84,1]	MultiMG 5ths 	
+[p2, 6, 84,1]	Sharp 5ths 	
+[p2, 7, 84,1]	Retrosweep 	
+[p2, 8, 84,1]	Velochord Ld 	
+[p2, 9, 84,1]	Micro MG 	
+[p2, 10, 84,1]	VCO Oct Lead 	
+[p2, 11, 84,1]	ModularLead 	
+[p2, 12, 84,1]	Expressolo 	
+[p2, 13, 84,1]	Jupiter Lead 	
+[p2, 14, 84,1]	GR500 SlowLd 	
+[p2, 15, 84,1]	Pats GR-300 	
+[p2, 16, 84,1]	SH-2000 Vox 	
+[p2, 17, 84,1]	P5 Sync Lead 	
+[p2, 18, 84,1]	Synkoid 	
+[p2, 19, 84,1]	Promars lead 	
+[p2, 20, 84,1]	FM Lead 	
+[p2, 21, 84,1]	CS Lead 	
+[p2, 22, 84,1]	Wagnerian Ld 	
+[p2, 23, 84,1]	Naked Cheese 	
+[p2, 24, 84,1]	Telstar 	
+[p2, 25, 84,1]	Limonaire 	
+[p2, 26, 84,1]	Lucky Man 	
+[p2, 27, 84,1]	OB 2 Voice 	
+[p2, 28, 84,1]	Fue Pipe 	
+[p2, 29, 84,1]	Living Calli 	
+[p2, 30, 84,1]	Arpy Micro 	
+[p2, 31, 84,1]	JP6 Bend 5th 	
+[p2, 32, 84,1]	Happy Hollow 	
+[p2, 33, 84,1]	Resotrails 	
+[p2, 34, 84,1]	70s Sinusolo 	
+[p2, 35, 84,1]	Alpha Lead 	
+[p2, 36, 84,1]	Dark Brass 	
+[p2, 37, 84,1]	Intervalead 	
+[p2, 38, 84,1]	MG Beef Bass 	
+[p2, 39, 84,1]	Monster MG 	
+[p2, 40, 84,1]	Fat MG Bass 	
+[p2, 41, 84,1]	Spike Bass 	
+[p2, 42, 84,1]	ClassicMG Bs 	
+[p2, 43, 84,1]	Reso MG Bass 	
+[p2, 44, 84,1]	Wet MG Bass 	
+[p2, 45, 84,1]	MG Ow Bass 	
+[p2, 46, 84,1]	Rougue Bass 	
+[p2, 47, 84,1]	MG Bs Pedals 	
+[p2, 48, 84,1]	SH101 Zap Bs 	
+[p2, 49, 84,1]	Bassic 101 	
+[p2, 50, 84,1]	101 Oct Bass 	
+[p2, 51, 84,1]	101 Ow Bas 	
+[p2, 52, 84,1]	SH-2 Bass 	
+[p2, 53, 84,1]	JP-4 Bass 1 	
+[p2, 54, 84,1]	JP-4 Bass 2 	
+[p2, 55, 84,1]	Systm700 Bs1 	
+[p2, 56, 84,1]	Systm700 Bs2 	
+[p2, 57, 84,1]	TB303 AcidBs 	
+[p2, 58, 84,1]	Talking Bs 	
+[p2, 59, 84,1]	OB Bass 	
+[p2, 60, 84,1]	2600 Reso Bs 	
+[p2, 61, 84,1]	Odyssee Bs 	
+[p2, 62, 84,1]	House Bass 	
+[p2, 63, 84,1]	Woofer Bass 	
+[p2, 64, 84,1]	Sharp Sub Bs 	
+[p2, 65, 84,1]	Big Sub Bass 	
+[p2, 66, 84,1]	Big Spike Bs 	
+[p2, 67, 84,1]	System100 Bs 	
+[p2, 68, 84,1]	Techno Bass 	
+[p2, 69, 84,1]	Housine Bass 	
+[p2, 70, 84,1]	Bark Bass 	
+[p2, 71, 84,1]	Super Bass 	
+[p2, 72, 84,1]	X Wire Bass 	
+[p2, 73, 84,1]	T8 Sync 	
+[p2, 74, 84,1]	P5 Sync Rush 	
+[p2, 75, 84,1]	ArpeggiBs+12 	
+[p2, 76, 84,1]	AreggiSaws 	
+[p2, 77, 84,1]	Planet-S SEQ 	
+[p2, 78, 84,1]	Synthacon 	
+[p2, 79, 84,1]	Palpitating 	
+[p2, 80, 84,1]	Descender 	
+[p2, 81, 84,1]	Playmate 	
+[p2, 82, 84,1]	MC8 Sequence 	
+[p2, 83, 84,1]	Thips Blips 	
+[p2, 84, 84,1]	Techno Perc 	
+[p2, 85, 84,1]	Power B	
+[p2, 86, 84,1]	DiryPurple	
+[p2, 87, 84,1]	Velo Rotary	
+[p2, 88, 84,1]	Gospel B	
+[p2, 89, 84,1]	Echo-Organ	
+[p2, 90, 84,1]	Oraganwave2.2	
+[p2, 91, 84,1]	VS Organ	
+[p2, 92, 84,1]	VK-1 Organ	
+[p2, 93, 84,1]	Celesty Juno	
+[p2, 94, 84,1]	Alpharphisa	
+[p2, 95, 84,1]	Juno60 Organ	
+[p2, 96, 84,1]	JX-8P Organ	
+[p2, 97, 84,1]	D-50 Organ 1	
+[p2, 98, 84,1]	D-50 Organ 2	
+[p2, 99, 84,1]	Are am eye?	
+[p2, 100, 84,1]	2600 Clk Org	
+[p2, 101, 84,1]	JX-3P Pipes	
+[p2, 102, 84,1]	Tron Choir	
+[p2, 103, 84,1]	Misty Choir	
+[p2, 104, 84,1]	Tron Strings	
+[p2, 105, 84,1]	Melotron Pad	
+[p2, 106, 84,1]	Tape Echo	
+[p2, 107, 84,1]	StrawberyFlt	
+[p2, 108, 84,1]	MellowFlutes	
+[p2, 109, 84,1]	Cyborg	
+[p2, 110, 84,1]	MKS80 Vortex	
+[p2, 111, 84,1]	Earthquake	
+[p2, 112, 84,1]	Dark Air	
+[p2, 113, 84,1]	Airdrom Pan	
+[p2, 114, 84,1]	Deep Wind	
+[p2, 115, 84,1]	Chronos	
+[p2, 116, 84,1]	Infinity	
+[p2, 117, 84,1]	Atmosphlange	
+[p2, 118, 84,1]	Medusa	
+[p2, 119, 84,1]	Aquaphone	
+[p2, 120, 84,1]	Computer Net	
+[p2, 121, 84,1]	Faveoravo	
+[p2, 122, 84,1]	Insecticide	
+[p2, 123, 84,1]	Off The Key	
+[p2, 124, 84,1]	H20 Asylum	
+[p2, 125, 84,1]	Aural Enigma	
+[p2, 126, 84,1]	RSS Spinner	
 [mode]	Performances
 [g1]		User
 [p2, 0, 80, 0]	Tekno Loop 1
